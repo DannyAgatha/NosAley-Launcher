@@ -2,21 +2,19 @@
   "files": [
     {
       "path": "data/item.txt",
+      "url": "https://dannyagatha.github.io/NosAley-Launcher/item.txt",
       "hash": "d41d8cd98f00b204e9800998ecf8427e",
       "size": 0
     },
     {
-      "path": "data/NS4BbData.NOS",
-      "hash": "4913572aaa13ecc7dff696f565067b0d",
-      "size": 70782927
-    },
-    {
       "path": "data/NSgtdData.NOS",
+      "url": "https://dannyagatha.github.io/NosAley-Launcher/NSgtdData.NOS",
       "hash": "128d8f33dfaf9d2e889861e1ac5f85e7",
       "size": 45272692
     },
     {
       "path": "data/NSipData.NOS",
+      "url": "https://dannyagatha.github.io/NosAley-Launcher/NSipData.NOS",
       "hash": "48fc91adddf9036fe8f40f9309a59c0b",
       "size": 9412394
     }
